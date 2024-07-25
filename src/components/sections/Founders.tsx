@@ -9,9 +9,9 @@ const Founders = () => {
 			<div className="flex justify-center items-center md:flex-row flex-col gap-32">
 				<div className="border border-dark md:px-16 px-3 py-7 flex flex-col justify-center items-center">
 					<Image
-						src="https://avatars.githubusercontent.com/u/10406286?v=4"
+						src="/assets/images/chris.jpg"
 						alt="Nimble Founder"
-						className="w-72"
+						className="grayscale"
 						width={288}
 						height={288}
 					/>
@@ -24,8 +24,9 @@ const Founders = () => {
 				</div>
 				<div className="border border-dark md:px-16 px-3 py-7 flex flex-col justify-center items-center">
 					<Image
-						src="https://avatars.githubusercontent.com/u/10406286?v=4"
+						src="/assets/images/ash.png"
 						alt="Nimble Founder"
+						className="grayscale"
 						width={288}
 						height={288}
 					/>
