@@ -6,7 +6,7 @@ const AboutUs = () => {
 			</h1>
 			<div className="border border-dark md:px-16 px-3 py-7">
 				<h3 className="font-boska md:text-6xl text-2xl font-medium">
-					At Nimble, we recognize that regulatory reporting is a costly
+					Regulatory reporting is a costly
 					business. For regulated firms, reporting workflows are:
 				</h3>
 				<h4 className="font-switzer md:text-3xl text-lg font-light mt-5 leading-relaxed tracking-wider">
@@ -16,7 +16,7 @@ const AboutUs = () => {
 			</div>
 			<div className="border border-dark border-t-0 md:px-16 px-3 py-7">
 				<h3 className="font-boska md:text-6xl text-2xl font-medium">
-					That&apos;s why we created Nimble. We combine unparalleled industry
+					We combine unparalleled industry
 					insight and leading-edge technology to alleviate firms&apos;
 					regulatory burden.
 				</h3>
