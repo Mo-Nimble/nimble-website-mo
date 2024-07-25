@@ -20,7 +20,7 @@ const config: Config = {
     },
     colors: {
       transparent: "transparent",
-      primary: "#edfffe",
+      primary: "#f7ffff",
       secondary: "#14deda",
       darkSecondary: '#14A19E',
       tertiary: "#dfdfdf",
