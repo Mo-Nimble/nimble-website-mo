@@ -7,7 +7,7 @@ const Founders = () => {
 				Founders
 			</h1>
 			<div className="flex justify-center items-center md:flex-row flex-col gap-32">
-				<div className="border border-dark md:px-16 px-3 py-7 flex flex-col justify-center items-center">
+				<div className="border border-dark md:px-16 px-3 py-7 flex flex-col justify-center items-center text-dark">
 					<Image
 						src="/assets/images/chris.jpg"
 						alt="Nimble Founder"
@@ -22,7 +22,7 @@ const Founders = () => {
 						Co-founder, CEO
 					</h4>
 				</div>
-				<div className="border border-dark md:px-16 px-3 py-7 flex flex-col justify-center items-center">
+				<div className="border border-dark md:px-16 px-3 py-7 flex flex-col justify-center items-center text-dark">
 					<Image
 						src="/assets/images/ash.png"
 						alt="Nimble Founder"

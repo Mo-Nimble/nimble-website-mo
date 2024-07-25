@@ -2,9 +2,9 @@ import Button from "../ui/Button";
 
 const HeroSection = () => {
 	return (
-		<div className="flex justify-around min-h-screen items-center md:px-16 md:flex-row flex-col p-7">
+		<div className="flex justify-around min-h-screen items-center md:px-16 md:flex-row flex-col p-7 text-dark">
 			<div className="flex flex-col md:w-3/5">
-				<h1 className="font-boska md:text-7xl text-5xl font-bold">
+				<h1 className="font-boska lg:text-7xl md:text-6xl text-5xl font-bold">
 					Regulatory relief through{" "}
 					<span className="text-darkSecondary">Automation</span>
 				</h1>
@@ -14,7 +14,7 @@ const HeroSection = () => {
                 <Button text="EARLY ACCESS" path="#" />
 			</div>
 			<div className="md:w-2/5">
-				<h2 className="font-boska md:text-4xl text-2xl font-regular border p-7 leading-relaxed tracking-wide">
+				<h2 className="font-boska lg:text-4xl md:text-3xl text-2xl font-regular border p-7 leading-relaxed tracking-wide">
 					“This is industry-shattering for us. I would be wildly more
 					efficient, effective and consistent. This is unreal, this takes
 					out 50%-60% of the work.”
