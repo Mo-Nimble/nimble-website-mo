@@ -1,7 +1,7 @@
 const AboutUs = () => {
 	return (
 		<div className="min-h-screen flex flex-col justify-center p-7 text-dark">
-			<h1 className="font-boska md:text-8xl text-3xl font-bold text-dark opacity-30 my-10">
+			<h1 className="font-boska md:text-8xl text-5xl font-bold text-dark opacity-30 my-10">
 				About Us
 			</h1>
 			<div className="border border-dark md:px-16 px-3 py-7">

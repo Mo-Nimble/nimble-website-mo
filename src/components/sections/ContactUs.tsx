@@ -3,7 +3,7 @@ import Button from "../ui/Button";
 const ContactUs = () => {
 	return (
 		<div className="flex justify-center flex-col p-7 text-dark">
-			<h1 className="font-boska md:text-8xl text-3xl font-bold text-dark opacity-30 my-10">
+			<h1 className="font-boska md:text-8xl text-5xl font-bold text-dark opacity-30 my-10">
 				Contact Us
 			</h1>
 			<div className="flex justify-center items-center flex-col">
