@@ -1,6 +1,6 @@
 const AboutUs = () => {
 	return (
-		<div className="min-h-screen flex flex-col justify-center p-7 text-dark">
+		<div className=" flex flex-col justify-center px-7 text-dark" id="about">
 			<h1 className="font-boska md:text-8xl text-5xl font-bold text-dark opacity-30 my-10">
 				About Us
 			</h1>

@@ -2,7 +2,7 @@ import Button from "../ui/Button";
 
 const Product = () => {
 	return (
-		<div className="flex flex-col justify-center min-h-screen p-7">
+		<div className="flex flex-col justify-center min-h-screen p-7" id="product">
 			<h1 className="font-boska md:text-8xl text-5xl font-bold text-dark opacity-30 my-10">
 				Product
 			</h1>
